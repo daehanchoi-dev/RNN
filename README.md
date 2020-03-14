@@ -1,0 +1,2 @@
+# RNN
+for study RNN
