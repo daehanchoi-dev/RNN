@@ -1,2 +1,2 @@
 # RNN
-for study RNN
+repositories for study RNN
